@@ -5,7 +5,7 @@
 ## Detailed Steps:
 
 1- Download ORACLE Virtual machine from https://www.virtualbox.org
-![Circuit Diagram](Simulation imgs/Screenshot 1443-01-10 at 01.21.51.png)
+![Circuit Diagram](https://github.com/bedaromar/Robot-Arm-Control-Using-ROS/blob/main/Simulation%20imgs/Screenshot%201443-01-10%20at%2001.21.51.png)
 
 2- Choose OS X host for mac
 ![Circuit Diagram]()
