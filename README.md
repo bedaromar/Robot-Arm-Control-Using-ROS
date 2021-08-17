@@ -1,6 +1,6 @@
 [Task1.pdf](https://github.com/bedaromar/Robot-Arm-Control-Using-ROS/files/7002834/Task1.pdf)
 # Robot-Arm-Control-Using-ROS
-** This is my first task in Robotics and AI department at SMART METHODS summer training, And In this file I'll explain the steps for using robot arm in ROS.
+**This is my first task in Robotics and AI department at SMART METHODS summer training, And In this file I'll explain the steps for using robot arm in ROS.
 
 ## Detailed Steps:
 
